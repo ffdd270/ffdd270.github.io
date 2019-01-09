@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "HaruGakkaP`s Translate Pages"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "HaruGakkaP"
+description              : "Translate to Korean Site."
 url                      : "https://ffdd270.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,10 +105,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "HaruGakkaP"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "C++,C#,Lua,Typescript,Ruby - Programer"
+  location         : "Supercreative"
   email            :
   links:
     - label: "Email"
