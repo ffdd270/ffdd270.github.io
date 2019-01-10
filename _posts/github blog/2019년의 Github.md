@@ -1,0 +1,26 @@
+Today we’re announcing two major updates to make GitHub more accessible to developers: unlimited free private repositories, and a simpler, unified Enterprise offering. We’re excited about these updates to our Free and Enterprise offerings:
+
+오늘, Github에 더욱 접근하기 쉽게 만들어주는 두 가지 주요 업데이트를 개발자 여러분들에게 발표하겠습니다 : 무제한 private 저장소와, 그리고 단순해진 통합 엔터프라이즈 환경을 제공하는 것입니다. 그 두 가지에 대해 자세히 설명드리겠습니다.
+
+* Github Free
+
+GitHub Free now includes unlimited private repositories. For the first time, developers can use GitHub for their private projects with up to three collaborators per repository for free. Many developers want to use private repos to apply for a job, work on a side project, or try something out in private before releasing it publicly. Starting today, those scenarios, and many more, are possible on GitHub at no cost. Public repositories are still free (of course—no changes there) and include unlimited collaborators.
+
+Github는 이제 무제한(용량을 가진 - 역주) private 저장소를 무료로 제공합니다. Github 역사상 처음으로, 개발자 여러분들은 Github를 이용하여 각 저장소마다 3명까지 기여자로 넣을 수 있는 private 프로젝트들을 무료로 관리하실 수 있습니다. 많은 개발자 여러분들은 구인 구직, 사이드 프로젝트, 아니면 public으로 내보내기 전에 private로 뭔가 해보려 할 때 private 저장소를 원하셨을텐데요. 오늘부터 Github에서 현실이 됩니다. 무료로요. Public 저장소는 여전히 무료이고(당연히, 어떠한 수수료도 없습니다.), 여전히 무제한으로 기여자들을 넣을 수 있습니다.
+
+
+* Github Enterprise
+
+GitHub Enterprise is the new unified product for Enterprise Cloud (formerly GitHub Business Cloud) and Enterprise Server (formerly GitHub Enterprise). Organizations that want the flexibility to use GitHub in a cloud or self-hosted configuration can now access both at one per-seat price. And with GitHub Connect, these products can be securely linked, providing a hybrid option so developers can work seamlessly across both environments.
+
+Github Enterprise는 Enterprise Cloud(예전의 Github Business Cloud)와 Enterprise Server(이전의 Github Entherprise)의 새로운 통합 상품입니다. 클라우드, 혹은 자체 호스트 구성에서 Github를 사용할 유연성을 원하는 조직에서는 이제 '각 자리마다 돈을'(per-seat 요금제입니다. - 역주) 내시면 두 가지 모두를 해결할 수 있습니다. 또한 Github Connect를 통해 위 제품에 안전하게 연결할 수 있으므로 하이브리드 옵션을 통해 여러분은 두 환경에서 원활하게 작업할 수 있습니다.
+
+
+GitHub Pro (formerly GitHub Developer) and GitHub Team are also available for developers and teams who need professional coding and collaboration features. And of course, open source contributors will still have everything they need to collaborate on public repositories, including our free version of GitHub Team.
+
+Github 프로(예전의 Github Developer)와 Github Team은 여전히 전문적인 코딩이 필요한 개발자와 팀에서 사용할 수 있습니다. 물론, 오픈 소스 기여자들에겐 여전히 Github Team 무료 버전을 포함해 public 저장소에서 공동 작업하는 데 필요한 모든 것을 제공합니다.
+
+
+Whether you’re a student about to write your first line of code, an enterprise leader with teams around the world, or an open source maintainer, we want GitHub to be the best place for you to code, collaborate, and connect with the global community of developers. Today’s changes are a big investment in the future of GitHub, and we’re excited to see to what you build in 2019.
+
+지금 이 글을 보는 여러분이 이제 첫 줄을 작성하려는 학생이든, 전 세계를 넘나드는 팀을 보유한 사장이든, 오픈 소스 관리자이든 관계없이. 저희는 Github가 코드 작성, 공동 작업 및 전 세계적인 개발자 커뮤니티와 만나는 데 최고의 장소가 되었으면 합니다. 오늘의 변화는 Github의 미래에 대한 큰 투자이며, 그걸 2019년에 구축할 수 있게 되어 정말로 기쁩니다.
