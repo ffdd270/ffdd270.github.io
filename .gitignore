@@ -1,0 +1,5 @@
+.sass-cache/
+*.html
+*.xml
+_site/assets/
+_site/robots.txt
