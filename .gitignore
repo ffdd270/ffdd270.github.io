@@ -1,5 +1,9 @@
-.sass-cache/
-*.html
-*.xml
-_site/assets/
-_site/robots.txt
+_site
+.sass-cache
+.jekyll-metadata
+404.html
+about.md
+RunSite.ps1
+Gemfile.lock
+index.md
+Gemfile
