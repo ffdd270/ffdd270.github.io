@@ -1,3 +1,8 @@
+---
+layout: post
+title: Typescript
+---
+
 https://code.visualstudio.com/api/get-started/wrapping-up
 
 # 마무리

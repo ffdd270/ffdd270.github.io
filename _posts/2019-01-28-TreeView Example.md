@@ -1,3 +1,8 @@
+---
+layout: post
+title: TreeView Guide
+---
+
 # Tree View Guide
 
 이 가이드에서는 Visual Studio 코드에 대한 View Container 및 Tree View를 제공하는 확장을 작성하는 방법을 설명합니다. 위 [링크]( https://github.com/Microsoft/vscode-extension-samples/tree/master/tree-view-sample)에서 소스 코드가있는 샘플 확장을 찾을 수 있습니다.

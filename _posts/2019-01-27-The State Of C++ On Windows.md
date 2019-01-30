@@ -1,3 +1,8 @@
+---
+layout: post
+title: The State Of C++ on Windows
+---
+
 # The State Of C++ On Windows
 
 [원문](https://kennykerr.ca/2019/01/25/the-state-of-cpp-on-windows/?fbclid=IwAR3DGj2bFhGLm83gDPizrYDtRCRwP-IoAsl6ABtR9HLISw2yJE1D9eTBXwo)
