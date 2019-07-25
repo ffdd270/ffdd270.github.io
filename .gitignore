@@ -43,3 +43,7 @@ bower_components
 
 # sass
 .sass-cache
+
+# local server cache
+vendor
+.bundle
