@@ -1,3 +1,8 @@
+---
+layout: post
+title: TimeTimer와 Focus-To-DO
+---
+
 #  TimeTimer와 Focus-To-Do에 대한 고찰
 TL;DR;(Too Long, Don`t Read - 세줄요약의 영어판) : 
 타임 타이머는 프로젝트마다 시간을 정하고. 
