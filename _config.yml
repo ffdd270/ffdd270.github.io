@@ -53,3 +53,7 @@ mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
 disqus_short_name: 'HaruGakka' # leave blank if you don't want disqus
 
+# depolyment 
+host: 0.0.0.0
+port: 4000
+
